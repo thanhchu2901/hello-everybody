@@ -1,17 +1,17 @@
 const CONFIG = {
-    introTitle: 'Hello bạn Dương Nhi xinh gái <3 !',
-    introDesc: `Hello hây hây hây `,
-    btnIntro: 'hihi',
-    title: 'Bạn ơi quà mùng 1 6 của mình đâu 😙',
-    desc: 'Phải chăng CHU THÀNH xứng đáng được nhận quà. Mình muốn có quà ',
+    introTitle: 'Hello chị Lê Phương xinh gái <3 !',
+    introDesc: `Anh chào em hây hây hây `,
+    btnIntro: 'hihi Mantee <3',
+    title: 'Chị ơi quà mùng 1 6 của em đâu 😙',
+    desc: 'Phải chăng CHU THÀNH xứng đáng được nhận quà.Chị hứa với em rồi con người nên coi trọng chữ tín ',
     
-    btnYes: 'Mình hứa mình sẽ mua cho bạn <33',
+    btnYes: ' Chị hứa chị sẽ mua cho em mà, 1 con IP 13 màu xanh nhé <33',
     btnNo: 'Không, Mày phải mua cho t ấy  :3',
-    question:'Uây bạn là một người bạn tuyệt vời. Mình không cần quà to đâu con IP 13 màu xanh là đc r   <3',
-    btnReply: 'Gửi cho người bạn tốt and ngoan nhất thế giới ',
+    question:' Wow chị là một người chị tuyệt vời nhất thế gian.Cùng nhau đỗ NEU chị nhé để còn nuôi em nữa chứ   <3',
+    btnReply: 'Gửi cho bé THÀNH - Thằng em ngoan ngoãn nhất thế gian có 1 0 2 ',
     reply: '.',
-    mess: 'Mình hiểu bạn mà 🥰. cảm on bạn nhiều nhiều 😘😘',
-    messDesc: 'Mai mình cho ăn đấm nhé ak đâu lỗi mk bạn xứng đáng được tặng mình quà hơn .',
+    mess: 'Em hiểu chị mà 🥰. cảm on chị nhiều nhiều 😘😘',
+    messDesc: 'Mai e cho chị ăn đấm nhé chị Lê Phương đểu đểu .',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+     'https://i.pinimg.com/originals/4f/09/1b/4f091b9aa348010852e7dce7d93c2d7a.jpg ' 
 }
