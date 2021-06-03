@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Em hiểu chị mà 🥰. cảm on chị nhiều nhiều 😘😘',
     messDesc: 'Mai e cho chị ăn đấm nhé chị Lê Phương đểu đểu .',
     btnAccept: 'Okiiiii lun <3',
-    messLink:'https://i.pinimg.com/originals/07/2c/c0/072cc00dc835ad99c0ad924bb7dede73.jpg ' 
+   'https://i.pinimg.com/originals/07/2c/c0/072cc00dc835ad99c0ad924bb7dede73.jpg ' 
 }
